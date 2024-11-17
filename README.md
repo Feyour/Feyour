@@ -2,6 +2,7 @@ My name is Albert! :blush:
 
 [Статистика]([https://job4j.ru/](https://github-readme-stats.vercel.app/api?username=Feyour&hide=stars,prs,issues,contribs))
 [Job4j]([https://job4j.ru](https://job4j.ru/](https://github-readme-stats.vercel.app/api?username=Feyour&hide=stars,prs,issues,contribs)/)
+[Статистика](https://job4j.ru/)
 <!--
 **Feyour/Feyour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
